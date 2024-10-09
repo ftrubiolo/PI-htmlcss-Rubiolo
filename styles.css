@@ -1,0 +1,20 @@
+body {
+    background-color: #32302F;
+}
+h1, p, h2, ul {
+    color: #EBDBB2;
+    font-family: sans-serif;
+}
+p {
+    width: 50%;
+}
+pre {
+    color: #7DAEA3;
+    font-family: 'Courier New', Courier, monospace;
+}
+ul {
+    list-style: circle inside;
+}
+.ayra {
+    width: 25%;
+}
